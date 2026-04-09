@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "node --check index.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "author": "Lamgerr",
   "license": "MIT",
   "dependencies": {
